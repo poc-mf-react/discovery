@@ -1,0 +1,24 @@
+{
+  "discover": {
+    "title": "Descubra a Creditas",
+    "auto": {
+      "title": "Creditas Auto",
+      "description": "Venda seu carro ou compre um novo, com juros a partir de 1,15% ao mês.",
+      "link": "https://auto.creditas.com/"
+    },
+    "car_loan": {
+      "title": "Empréstimo com Veículo"
+    },
+    "home_loan": {
+      "title": "Empréstimo com Imóvel"
+    },
+    "sell_your_property": {
+      "title": "Venda seu Imóvel",
+      "link": "https://www.creditas.com/imovel/vender"
+    },
+    "renovate_your_property": {
+      "title": "Reforme seu Imóvel",
+      "link": "https://www.creditas.com/imovel/reformar"
+    }
+  }
+}
