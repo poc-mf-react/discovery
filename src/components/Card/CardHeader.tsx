@@ -1,5 +1,5 @@
-import * as React from "react";
-import { Flex, BoxProps } from "@creditas-ui/layout";
+import * as React from 'react';
+import { Flex, BoxProps } from '@creditas-ui/layout';
 
 type CardHeaderProps = BoxProps & {
   children: React.ReactNode;
@@ -7,7 +7,7 @@ type CardHeaderProps = BoxProps & {
 
 const CardHeader = ({
   children,
-  padding = "24px",
+  padding = '24px',
 }: CardHeaderProps): JSX.Element => {
   return (
     <Flex

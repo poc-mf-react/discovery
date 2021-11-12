@@ -1,5 +1,5 @@
-import * as React from "react";
-import { Box, BoxProps } from "@creditas-ui/layout";
+import * as React from 'react';
+import { Box, BoxProps } from '@creditas-ui/layout';
 
 type CardFooterProps = BoxProps & {
   children: React.ReactNode;

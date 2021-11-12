@@ -1,4 +1,4 @@
-import * as React from "react";
+import * as React from 'react';
 
 const House = ({ ...props }: React.HTMLAttributes<SVGElement>): JSX.Element => (
   <svg

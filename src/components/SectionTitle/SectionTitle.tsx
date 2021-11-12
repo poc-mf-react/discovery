@@ -1,6 +1,6 @@
-import React from "react";
-import { Typography } from "@creditas-ui/typography";
-import { styled } from "@creditas-ui/system";
+import React from 'react';
+import { Typography } from '@creditas-ui/typography';
+import { styled } from '@creditas-ui/system';
 
 const SectionTitleStyle = styled(Typography)`
   text-transform: uppercase;

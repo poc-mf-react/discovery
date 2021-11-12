@@ -1,5 +1,5 @@
-import * as React from "react";
-import { Box, BoxProps } from "@creditas-ui/layout";
+import * as React from 'react';
+import { Box, BoxProps } from '@creditas-ui/layout';
 
 type CardContentProps = BoxProps & {
   children: React.ReactNode;
@@ -7,7 +7,7 @@ type CardContentProps = BoxProps & {
 
 const CardContent = ({
   children,
-  marginTop = "48px",
+  marginTop = '48px',
   paddingRight,
 }: CardContentProps): JSX.Element => {
   return (

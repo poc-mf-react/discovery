@@ -1,4 +1,4 @@
-import * as React from "react";
+import * as React from 'react';
 
 const Sofa = ({ ...props }: React.SVGProps<SVGSVGElement>): JSX.Element => {
   return (

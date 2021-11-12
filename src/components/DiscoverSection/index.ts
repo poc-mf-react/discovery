@@ -1,1 +1,1 @@
-export * from "./DiscoverSection";
+export * from './DiscoverSection';
